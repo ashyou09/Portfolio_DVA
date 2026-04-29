@@ -21,36 +21,20 @@ export default function Sidebar() {
         className="sidebar-avatar"
       />
       <h1 className="sidebar-name">Ashutosh Singh</h1>
-      <p className="sidebar-username">ashutosh-singh</p>
+      <p className="sidebar-username">ashyou09</p>
       <p className="sidebar-bio">
         Data Analyst expert in <strong>Excel</strong>, <strong>Tableau</strong>, and <strong>MySQL</strong>, turning complex datasets into clear, actionable intelligence. 
         I leverage <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Seaborn</strong>, and <strong>Plotly</strong> to build scalable models and automated dashboards.
       </p>
 
-      <a
-        href="https://github.com/ashutosh-singh"
-        target="_blank"
-        rel="noreferrer"
-        className="sidebar-follow-btn"
-      >
-        View GitHub
-      </a>
       <div className="sidebar-socials">
         <a
-          href="#"
+          href="https://www.linkedin.com/in/ashutosh-singh2024/"
           target="_blank"
           rel="noreferrer"
           className="sidebar-social-btn"
         >
           LinkedIn
-        </a>
-        <a
-          href="#"
-          target="_blank"
-          rel="noreferrer"
-          className="sidebar-social-btn"
-        >
-          Resume
         </a>
       </div>
 
