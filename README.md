@@ -2,7 +2,7 @@
 
 🌐 **Live Portfolio:** [portfolio-dva-three.vercel.app](https://portfolio-dva-three.vercel.app/)
 
-ash_2024@rishihood.edu.in | [GitHub](https://github.com/ashyou09) | [LinkedIn](https://www.linkedin.com/in/ashutosh-singh2024/)
+ashutosh.singh2024@rishihood.edu.in | [GitHub](https://github.com/ashyou09) | [LinkedIn](https://www.linkedin.com/in/ashutosh-singh2024/)
 
 ---
 
