@@ -24,6 +24,14 @@ const projects = [
     tags: ["dashboard", "data-viz", "analytics"],
     github: "#",
     live: "https://docs.google.com/spreadsheets/d/1hXWgkVV1PRSaZfl86P68GkNQflubBdjYmwfvNE2n8Pk/edit?gid=1369173376#gid=1369173376"
+  },
+  {
+    name: "Global AQI Analytics Dashboard",
+    description: "Advanced environmental monitoring Tableau dashboard providing comprehensive insights into global Air Quality Index (AQI) trends, solutions, and regional comparisons.",
+    image: `${base}aqi_project.png`,
+    tags: ["tableau", "dashboard", "data-viz", "environment"],
+    github: "#",
+    live: "https://public.tableau.com/app/profile/mausam.kumar8507/viz/Tableau_Dashboard_Final/DB-3Solutions?publish=yes"
   }
 ]
 

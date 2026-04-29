@@ -40,6 +40,9 @@ MySQL, MongoDB, Prisma ORM
 ### [AI at Work: Efficiency vs Stability](https://docs.google.com/spreadsheets/d/1hXWgkVV1PRSaZfl86P68GkNQflubBdjYmwfvNE2n8Pk/edit?gid=1369173376#gid=1369173376)
 - **Workforce Analytics**: An interactive dashboard evaluating the impact of AI adoption across different roles, analyzing the balance between increased productivity and burnout risk.
 
+### [Global AQI Analytics Dashboard](https://public.tableau.com/app/profile/mausam.kumar8507/viz/Tableau_Dashboard_Final/DB-3Solutions?publish=yes)
+- **Environmental Monitoring**: Advanced Tableau dashboard providing comprehensive visual insights into global Air Quality Index (AQI) trends and viable solutions.
+
 ---
 
 ## Soft Skills
