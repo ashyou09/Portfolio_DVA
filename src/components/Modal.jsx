@@ -25,14 +25,6 @@ export default function Modal({project,onClose}){
         <div className="modal-actions">
           <button className="modal-btn-cancel" onClick={onClose}>Cancel</button>
           <a
-            href={project.github}
-            target="_blank"
-            rel="noreferrer"
-            className="modal-btn-github"
-          >
-            View GitHub Repo
-          </a>
-          <a
             href={project.live}
             target="_blank"
             rel="noreferrer"
