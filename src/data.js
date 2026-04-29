@@ -2,6 +2,14 @@ const base = import.meta.env.BASE_URL
 
 const projects = [
   {
+    name: "Global AQI Analytics Dashboard",
+    description: "Advanced environmental monitoring Tableau dashboard providing comprehensive insights into global Air Quality Index (AQI) trends, solutions, and regional comparisons.",
+    image: `${base}aqi_project.png`,
+    tags: ["tableau", "dashboard", "data-viz", "environment"],
+    github: "#",
+    live: "https://public.tableau.com/app/profile/mausam.kumar8507/viz/Tableau_Dashboard_Final/DB-3Solutions?publish=yes"
+  },
+  {
     name: "Valuation Ratio Analysis",
     description: "Financial modeling and valuation ratio analysis for BEL and HAL, including Earnings Per Share, Price to Earnings, and Price to Sales ratios.",
     image: `${base}project1.png`,
@@ -24,14 +32,6 @@ const projects = [
     tags: ["dashboard", "data-viz", "analytics"],
     github: "#",
     live: "https://docs.google.com/spreadsheets/d/1hXWgkVV1PRSaZfl86P68GkNQflubBdjYmwfvNE2n8Pk/edit?gid=1369173376#gid=1369173376"
-  },
-  {
-    name: "Global AQI Analytics Dashboard",
-    description: "Advanced environmental monitoring Tableau dashboard providing comprehensive insights into global Air Quality Index (AQI) trends, solutions, and regional comparisons.",
-    image: `${base}aqi_project.png`,
-    tags: ["tableau", "dashboard", "data-viz", "environment"],
-    github: "#",
-    live: "https://public.tableau.com/app/profile/mausam.kumar8507/viz/Tableau_Dashboard_Final/DB-3Solutions?publish=yes"
   }
 ]
 
